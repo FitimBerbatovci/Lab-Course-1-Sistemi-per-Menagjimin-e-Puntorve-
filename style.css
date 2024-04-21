@@ -1,0 +1,36 @@
+ul li :hover {
+    background-color: gray;
+}
+
+.employee_image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.emp_det_image {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.sticky-note {
+    background-color: #f9f8eb;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .sticky-note h4 {
+    margin-top: 0;
+  }
+  
+  .sticky-note p {
+    margin-bottom: 10px;
+  }
+  
+  .sticky-note div {
+    margin-top: 10px;
+  }
+  
